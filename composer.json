@@ -1,5 +1,5 @@
 {
-    "name": "magicalex/seedbox-manager",
+    "name": "clegall/seedbox-manager",
     "description": "Web app for manage your seedbox",
     "keywords": ["seedbox", "rtorrent"],
     "license": "GPL-3.0",
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Magicalex",
-            "email": "magicalex14000@gmail.com"
+            "name": "clegall",
+            "email": "clegall@gmail.com"
         }
     ],
     "autoload": {
